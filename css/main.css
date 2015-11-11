@@ -1,3 +1,30 @@
 /*----------------------------------------------------------------------------- 
 =MAIN STYLES  
 -----------------------------------------------------------------------------*/
+
+h1 {
+    font-size: 16px;
+}
+
+h2 {
+    font-weight: bold;
+    padding: 20px;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+footer {
+    background: url("../images/grey-texture.jpg");
+    padding: 20px 5px 5px 5px;
+}
+
+.gray {
+    color: gray;
+}
+
+.section-padding {
+    padding: 50px;
+}
+
